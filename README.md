@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mehmet :</h1>
-<h3 align="center">A passionate İOS developer from Turkiye</h3>
+<h3 align="center">A passionate İOS Developer</h3>
 
 - 🌱 I’m currently learning **Swift**
 
